@@ -12,7 +12,7 @@ Hello! I'm Zeynep Selin Buyruk, a 3rd-year Computer Engineering student. I'm foc
 ## 📚 Education
 
 - **University**: Computer Engineering, 3rd Year Student
-- I continue with a passion for continuous learning and discovering new technologies.
+
 
   ## 📫 Contact
 
