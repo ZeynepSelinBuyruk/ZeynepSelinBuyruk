@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there! I'm Zeynep Selin Buyruk! 👋
 
-<!--
-**ZeynepSelinBuyruk/ZeynepSelinBuyruk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Zeynep Selin Buyruk, a 3rd-year Computer Engineering student. I'm focused on developing myself in the software world, with a particular interest in frontend technologies. In addition, I'm working on improving myself in areas like data analysis and also striving to advance in backend development.
 
-Here are some ideas to get you started:
+## 🚀 My Interests and Areas of Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend Development**: Creating user-friendly interfaces using technologies like HTML, CSS, JavaScript, and React.
+- **Backend Development**: Developing server-side applications with tools like Node.js and Express.js.
+- **Data Analysis**: Processing, analyzing, and visualizing data using Python.
+- **Programming Languages**: I'm working on specializing in JavaScript and Python. I'm also learning general software engineering principles.
+
+## 📚 Education
+
+- **University**: Computer Engineering, 3rd Year Student
+- I continue with a passion for continuous learning and discovering new technologies.
+
+  ## 📫 Contact
+
+- **LinkedIn**:www.linkedin.com/in/zeynep-selin-buyruk111
+- **Email**: zeynepselinbuyruk@gmail.com
+
