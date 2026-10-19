@@ -1,6 +1,6 @@
 ## Hi there! I'm Zeynep Selin Buyruk! 
 
-Hello! I'm Zeynep Selin Buyruk, a 3rd-year Computer Engineering student. I'm focused on developing myself in the software world, with a particular interest in frontend technologies. In addition, I'm working on improving myself in areas like data analysis and also striving to advance in backend development.
+Hello! I'm Zeynep Selin Buyruk, a 4th-year (senior) Computer Engineering student. I'm focused on developing myself in the software world, with a particular interest in frontend technologies. In addition, I'm working on improving myself in areas like data analysis and also striving to advance in backend development.
 
 ##  My Interests and Areas of Expertise
 
@@ -11,11 +11,9 @@ Hello! I'm Zeynep Selin Buyruk, a 3rd-year Computer Engineering student. I'm foc
 
 ##  Education
 
-- **University**: Computer Engineering, 3rd Year Student
+- **University**: Computer Engineering, 4th Year (Senior) Student
 
+##  Contact
 
-  ##  Contact
-
-- **LinkedIn**:www.linkedin.com/in/zeynep-selin-buyruk111
+- **LinkedIn**: [linkedin.com/in/zeynep-selin-buyruk111](https://www.linkedin.com/in/zeynep-selin-buyruk111)
 - **Email**: zeynepselinbuyruk@gmail.com
-
